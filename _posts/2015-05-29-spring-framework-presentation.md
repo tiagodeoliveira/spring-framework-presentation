@@ -3,7 +3,7 @@ title: "Spring Framework - Far beyond CDI"
 tags: [spring, java, cloud, springboot, springcloud]
 ---
 
-## ![Spring Framework](/images/spring-framework.png)
+## ![Spring Framework](../images/spring-framework.png)
 # Spring Framework
 ## Far beyond CDI
 
