@@ -10,7 +10,7 @@ tags: [spring, java, cloud, springboot, springcloud]
 ---
 
 # A bit of history
-![Spring Framework](/images/spring-timeline.png)
+![Spring Framework](../images/spring-timeline.png)
 
 ---
 
@@ -66,7 +66,6 @@ tags: [spring, java, cloud, springboot, springcloud]
     * GemStone
 * Then Pivotal rises as a joint venture
 
-
 ---
 
 ### Version 4.0
@@ -121,7 +120,7 @@ reader.beans {
 
 ---
 
-![Spring Framework](/images/spring-overview.png)
+![Spring Framework](../images/spring-overview.png)
 
 Note:
 http://docs.spring.io/spring-framework/docs/current/spring-framework-reference/html/overview.html#overview-modules
@@ -159,7 +158,7 @@ http://docs.spring.io/spring-framework/docs/current/spring-framework-reference/h
 
 ---
 
-#![Spring Framework](/images/spring-projects.png)
+#![Spring Framework](../images/spring-projects.png)
 
 --
 
@@ -185,7 +184,7 @@ http://docs.spring.io/spring-framework/docs/current/spring-framework-reference/h
 
 The project's goal is to simplify the development of big data applications.
 
-![Spring XD](/images/spring-xd-unified-platform-for-big-data.png)
+![Spring XD](../images/spring-xd-unified-platform-for-big-data.png)
 
 ---
 
